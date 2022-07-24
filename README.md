@@ -4,7 +4,7 @@ I implemented the transformer architecture from scratch in both pytorch and tens
 
 Below are the links to the resources which helps me understand the transformer architecture and its implementation.
 
-Hope it will help!
+Hope it helps!
 
 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
